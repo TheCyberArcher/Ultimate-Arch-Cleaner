@@ -20,7 +20,7 @@ sudo bash Ultimate-Arch-Cleaner.sh
 
 ---
 
-### Config files to remove manually (after app remove)
+### Config files to remove manually
 
 ```
 ~/.config/"appname"
@@ -31,5 +31,5 @@ sudo bash Ultimate-Arch-Cleaner.sh
 /etc/xdg/autostart/"appname"
 
 /var/lib/flatpak/"appname"
- /var/lib/flatpak/runtine/"appname"
+/var/lib/flatpak/runtine/"appname"
 ```
