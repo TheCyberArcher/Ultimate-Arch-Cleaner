@@ -18,7 +18,7 @@ cd Ultimate-Arch-Cleaner
 sudo bash Ultimate-Arch-Cleaner.sh
 ``` 
 
----
+<br />
 
 ### Config files to remove manually
 
