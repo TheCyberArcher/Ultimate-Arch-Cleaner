@@ -8,7 +8,7 @@
 
 ---
 
-### Install
+### Installation
 
 ```
 mkdir  ~/.local/tmp/
