@@ -6,11 +6,12 @@
 
 [![Capture-d-cran-du-2024-04-08-15-24-19.png](https://i.postimg.cc/SRDfFZ8p/Capture-d-cran-du-2024-04-08-15-24-19.png)](https://postimg.cc/zHHgTF0d)
 
-```
-mkdir  ~/.local/tmp/ \
-cd ~/.local/tmp/ \
-git clone https://github.com/TheCyberArcher/Ultimate-Arch-Cleaner.git \
-cd Ultimate-Arch-Cleaner \
-sudo bash Ultimate-Arch-Cleaner.sh \
+#Install
 
+```
+mkdir  ~/.local/tmp/
+cd ~/.local/tmp/
+git clone https://github.com/TheCyberArcher/Ultimate-Arch-Cleaner.git
+cd Ultimate-Arch-Cleaner
+sudo bash Ultimate-Arch-Cleaner.sh
 ``` 
