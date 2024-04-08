@@ -16,12 +16,19 @@ sudo bash Ultimate-Arch-Cleaner.sh
 
 ### Requirements
 
-- [yay aur helper](https://github.com/Jguer/yay)
+- [yay](https://github.com/Jguer/yay)
 - [reflector](https://wiki.archlinux.org/title/Reflector)
 
 ### Features provided
 
-
+- removing orphan packages
+- pacman cache deletion
+- yay cache deletion
+- apps cache deletion
+- flatpak cache deletion
+- logs deletion
+- fr mirror list update
+- full update and upgrade
 
 ### Config files to remove manually
 
