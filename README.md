@@ -17,3 +17,19 @@ git clone https://github.com/TheCyberArcher/Ultimate-Arch-Cleaner.git
 cd Ultimate-Arch-Cleaner
 sudo bash Ultimate-Arch-Cleaner.sh
 ``` 
+
+---
+
+### Config files to remove manually (after app remove)
+
+```
+~/.config/"appname"
+~/.local/share/"appname"
+/etc/"appname"
+/usr/share/"appname"
+/usr/share/applications/"appname"
+/etc/xdg/autostart/"appname"
+
+/var/lib/flatpak/"appname"
+ /var/lib/flatpak/runtine/"appname"
+```
