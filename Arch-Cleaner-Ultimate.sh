@@ -54,11 +54,12 @@ rm -rf ~/.cache/*
 
 echo "--removed"
 
-echo '====== Remove Flatpak apps cache ====='
+echo '====== Remove Flatpak apps cache and unused ====='
 echo ''
 
 rm -rf /var/lib/flatpak/repo/tmp/
 rm -rf /var/tmp/flatpak-cache-*
+flatpak remove --unused
 
 echo "--removed"
 
